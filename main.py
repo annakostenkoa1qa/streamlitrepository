@@ -1,2 +1,5 @@
-if __name__ == '__main__':
-    print("Hello, World!")
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+st.write("Hello, World!")
